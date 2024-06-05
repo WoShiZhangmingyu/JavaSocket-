@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenRunner">
     <option name="jreName" value="11" />
   </component>
@@ -27,7 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -102,6 +105,7 @@
       <workItem from="1717498113475" duration="599000" />
       <workItem from="1717502666012" duration="599000" />
       <workItem from="1717553475695" duration="2285000" />
+      <workItem from="1717560646489" duration="81000" />
     </task>
     <servers />
   </component>
@@ -129,10 +133,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1717239567981" />
-    <state x="932" y="152" key="FileChooserDialogImpl" timestamp="1717559043932">
+    <state x="932" y="152" key="FileChooserDialogImpl" timestamp="1717560683237">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="932" y="152" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1717559043932" />
+    <state x="932" y="152" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1717560683237" />
     <state width="1493" height="219" key="GridCell.Tab.0.bottom" timestamp="1717487804643">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
