@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2670fbb1-360b-4012-b385-e8825f05731e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+  </component>
+  <component name="ProjectId" id="2hGaObfPB72sqo1qP4oMUYyaiDy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RunManager" selected="Application.ClientGUI">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.Client" />
+      <module name="javaChat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientGUI" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.ClientGUI" />
+      <module name="javaChat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.Server" />
+      <module name="javaChat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.ClientGUI" />
+      <item itemvalue="Application.Server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientGUI" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2670fbb1-360b-4012-b385-e8825f05731e" name="Default Changelist" comment="" />
+      <created>1717222836244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717222836244</updated>
+      <workItem from="1717222839131" duration="35569000" />
+      <workItem from="1717404167291" duration="6864000" />
+      <workItem from="1717469377579" duration="2518000" />
+      <workItem from="1717498113475" duration="599000" />
+      <workItem from="1717502666012" duration="599000" />
+      <workItem from="1717553475695" duration="2285000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="851" y="68" key="#ClientGUI2" timestamp="1717244244931">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="851" y="68" key="#ClientGUI2/0.0.1536.816@0.0.1536.816" timestamp="1717244244931" />
+    <state x="277" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1717244446529">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="277" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1717244446529" />
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1717333742328">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1717333742328" />
+    <state x="548" y="267" width="439" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1717227567013">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="548" y="267" width="439" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.816@0.0.1536.816" timestamp="1717227567013" />
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1717239567981">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1717239567981" />
+    <state x="932" y="152" key="FileChooserDialogImpl" timestamp="1717559043932">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="932" y="152" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1717559043932" />
+    <state width="1493" height="219" key="GridCell.Tab.0.bottom" timestamp="1717487804643">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="219" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1717487804643" />
+    <state width="1493" height="219" key="GridCell.Tab.0.center" timestamp="1717487804643">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="219" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1717487804643" />
+    <state width="1493" height="219" key="GridCell.Tab.0.left" timestamp="1717487804643">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="219" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1717487804643" />
+    <state width="1493" height="219" key="GridCell.Tab.0.right" timestamp="1717487804643">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="219" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1717487804643" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1717341965824">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1717341965824" />
+    <state x="449" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1717504612761">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="449" y="232" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1717504612761" />
+    <state x="279" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1717405793857">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="279" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.816@0.0.1536.816" timestamp="1717405793857" />
+    <state x="127" y="15" width="642" height="801" key="find.popup" timestamp="1717243867969">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="127" y="15" width="642" height="801" key="find.popup/0.0.1536.816@0.0.1536.816" timestamp="1717243867969" />
+    <state x="178" y="103" key="new project wizard" timestamp="1717469459293">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="178" y="103" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1717469459293" />
+    <state x="814" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1717252548012">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="814" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1717252548012" />
+  </component>
+</project>
